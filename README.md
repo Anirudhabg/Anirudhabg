@@ -1,7 +1,7 @@
 <h1 align="center">Hey there my name is Anirudha B G Somayaji</h1>
 <h3 align="center" style="font-family:sans-serif">I am a recent BSc graduate with an overall CGPA of 9.65. Currently, I am pursuing MCA at Vivekananda College of Engineering and Technology, Puttur. I am a fresher with a keen interest in Design and Development field, particularly in Website designing and more. I have participated in several national and state-level competitions, where I showcased my skills and knowledge. I am a knowledge-thirsty individual who is always eager to learn something new and improve my skills.</h3>
 
-- 📫 How to reach me **anirudhabg@gmail.com**
+<p align="center"> How to reach me <br>**anirudhabg@gmail.com**</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
