@@ -33,9 +33,9 @@ I have participated in several national and state-level competitions, where I sh
 
 <br/>  
 
+## <div align="center">Rapidfire </div>  
 
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
+<table align="center"><tr><td valign="top" width="50%">
 
 - 🔭 I’m currently working on Flutter Project  
   
