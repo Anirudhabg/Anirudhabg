@@ -2,7 +2,7 @@
   
 
 
-### <div align="center">Wannna grab some tea?  </div>  
+### 
 
 <div align="center">
   <a href="https://github.com/Anirudhabg" target="_blank">
@@ -23,12 +23,12 @@
 </div>
   
 
+### <div align="center">Glad to see you here! </div>  
 
+ 
+<p style="text-align: justify">I am a recent BSc graduate with an overall CGPA of 9.65. Currently, I am pursuing MCA at Vivekananda College of Engineering and Technology, Puttur. I am a fresher with a keen interest in Design and Development field, particularly in Website designing and more.
 
-### Glad to see you here!  
-I am a recent BSc graduate with an overall CGPA of 9.65. Currently, I am pursuing MCA at Vivekananda College of Engineering and Technology, Puttur. I am a fresher with a keen interest in Design and Development field, particularly in Website designing and more.
-
-I have participated in several national and state-level competitions, where I showcased my skills and knowledge. I am a knowledge-thirsty individual who is always eager to learn something new and improve my skills.  
+I have participated in several national and state-level competitions, where I showcased my skills and knowledge. I am a knowledge-thirsty individual who is always eager to learn something new and improve my skills.</p>  
   
 
 <br/>  
