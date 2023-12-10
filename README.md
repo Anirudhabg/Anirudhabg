@@ -1,8 +1,8 @@
-# <div align="center">Hey 👋, I'm Anirudha B G Somayaji!!!!</div>  
+#<div align="center">Hey 👋, I'm Anirudha B G Somayaji!!!!</div>  
   
 
 
-### 
+###<div align="center">Wanna Grab Some Tea ☕? </div> 
 
 <div align="center">
   <a href="https://github.com/Anirudhabg" target="_blank">
@@ -23,7 +23,7 @@
 </div>
   
 
-### <div align="center">Glad to see you here! </div>  
+###<div align="center">Glad to see you here! </div>  
 
  
 <p style="text-align: justify">I am a recent BSc graduate with an overall CGPA of 9.65. Currently, I am pursuing MCA at Vivekananda College of Engineering and Technology, Puttur. I am a fresher with a keen interest in Design and Development field, particularly in Website designing and more.
@@ -33,7 +33,7 @@ I have participated in several national and state-level competitions, where I sh
 
 <br/>  
 
-## <div align="center">Rapidfire </div>  
+##<div align="center">Wanna Know More! </div>  
 
 <table align="center"><tr><td valign="top" width="50%">
 
@@ -58,7 +58,7 @@ I have participated in several national and state-level competitions, where I sh
 <br/>  
 
 
-## Languages and Tools  
+##<div align="center"> Languages and Tools I Know</div>
 <div align="center">  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
@@ -84,8 +84,8 @@ I have participated in several national and state-level competitions, where I sh
 
 <br/>  
 
-
-## Github Stats  
+##<div align="center">Github Stats </div>  
+  
 <table><tr><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Anirudhabg&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
@@ -113,5 +113,3 @@ I have participated in several national and state-level competitions, where I sh
 
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
