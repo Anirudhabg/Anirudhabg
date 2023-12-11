@@ -49,7 +49,7 @@ I have participated in several national and state-level competitions, where I sh
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--RqeELwek--/c_fill,f_auto,fl_progressive,h_320,q_auto,w_320/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/1144709/4dcb8524-a9ac-4b90-b0e3-fb35d5eb1a6b.jpg" align="center" height="175" width="175" />
+<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--RqeELwek--/c_fill,f_auto,fl_progressive,h_320,q_auto,w_320/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/1144709/4dcb8524-a9ac-4b90-b0e3-fb35d5eb1a6b.jpg" align="center" height="175" width="175" align="center"/>
 </div>  
 
 
