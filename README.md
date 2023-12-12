@@ -23,39 +23,7 @@
 </div>
   
 
-### <div align="center">Glad to see you here! </div>  
-
  
-<p style="text-align: justify">I am a recent BSc graduate with an overall CGPA of 9.65. Currently, I am pursuing MCA at Vivekananda College of Engineering and Technology, Puttur. I am a fresher with a keen interest in Design and Development field, particularly in Website designing and more.
-
-I have participated in several national and state-level competitions, where I showcased my skills and knowledge. I am a knowledge-thirsty individual who is always eager to learn something new and improve my skills.</p>  
-  
-
-<br/>  
-
-## <div align="center">Wanna Know More! </div>  
-
-<table align="center"><tr><td valign="top" width="50%">
-
-- 🔭 I’m currently working on Flutter Project  
-  
-
-- 🌱 I’m currently learning Flutter and dart  
-  
-
-- 😃Fun Fact: I am a Biology student.  
-
-
-</td><td valign="top" width="50%">
-
-<div align="center">
-<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--RqeELwek--/c_fill,f_auto,fl_progressive,h_320,q_auto,w_320/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/1144709/4dcb8524-a9ac-4b90-b0e3-fb35d5eb1a6b.jpg" align="center" height="175" width="175" align="center"/>
-</div>  
-
-
-</td></tr></table>  
-
-<br/>  
 
 
 ## <div align="center"> Languages and Tools I Know</div>
