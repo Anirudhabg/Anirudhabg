@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anirudha B G Somayaji</h1>
-<h3 align="center">A knowledge-thirsty individual who is always eager to learn something new and improve my skills.</h3>
+<h3 align="center" style="font-family:cursive">A knowledge-thirsty individual who is always eager to learn something new and improve my skills.</h3>
 
 - 🌱 I’m currently learning **Flutter / Dart**
 
