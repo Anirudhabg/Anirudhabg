@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anirudha B G Somayaji</h1>
-<h3 align="center" style="font-family:cursive">A knowledge-thirsty individual who is always eager to learn something new and improve my skills.</h3>
+<h2 align="center" style="font-family:cursive">Passionate learner with a relentless drive to acquire new knowledge and enhance my skills. Always eager to explore, innovate, and grow.</h2>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
