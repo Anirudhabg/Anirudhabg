@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Anirudha
 ## 💫 About Me:
 I’m a Master's student in Computer Applications, passionate about tech and coding. <br>My areas of focus include web development, machine learning, and IoT systems.
-
+Wanna know more about me??? Visit: [anirudhabg](https://anirudhabg.netlify.app/)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anirudhabg) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anirudha-b-g-somayaji) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/anirudhabg) 
