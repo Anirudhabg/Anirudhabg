@@ -24,32 +24,37 @@
 
 ## 🚀 Projects:
 Here are some cool projects I've worked on:
+### Web Based Project:
 #### [Tantrotsav Project Expo Website](https://github.com/Anirudhabg/tantrotsav-project-exp.git)
-The official website for the Project Expo organized by the MCA Department of VCET, Puttur.
+- The official website for the Project Expo organized by the MCA Department of VCET, Puttur.
 
-### [Dynamic Timetable for MCA, VCET](https://github.com/Anirudhabg/Dynamic_TimeTable.git)
-Dynamic Timetable for VCET MCA Students
+#### [Dynamic Timetable for MCA, VCET](https://github.com/Anirudhabg/Dynamic_TimeTable.git)
+- Dynamic Timetable for VCET MCA Students
 
-### [Creative Mode](https://github.com/Anirudhabg/CREATIVE-mode.git)
-Website for a photographer.
+#### [Creative Mode](https://github.com/Anirudhabg/CREATIVE-mode.git)
+- Website for a photographer.
 
-### [CleanCity: Enhancing Waste Disposal and Sanitation Through Technology](https://github.com/Anirudhabg/CleanCity.git)
-Waste classification and reporting app using machine learning and FLET for proper disposal methods.
+---
+### Machine Learning Based Projects:
+#### [CleanCity: Enhancing Waste Disposal and Sanitation Through Technology](https://github.com/Anirudhabg/CleanCity.git)
+- Waste classification and reporting app using machine learning and FLET for proper disposal methods.
 
-### [SentimentScope: Real-Time Twitter Sentiment Analysis via Chrome Extension](https://github.com/Anirudhabg/Twitter_sentiment_analysis.git)
-A machine learning-based analysis of public sentiments on Twitter using natural language processing techniques.
+#### [SentimentScope: Real-Time Twitter Sentiment Analysis via Chrome Extension](https://github.com/Anirudhabg/Twitter_sentiment_analysis.git)
+- A machine learning-based analysis of public sentiments on Twitter using natural language processing techniques.
 
-### [CricAnalysis](https://github.com/Anirudhabg/CricAnalysis.git)
-A machine learning project focused on predicting the future performance of Indian cricketers.
+#### [CricAnalysis](https://github.com/Anirudhabg/CricAnalysis.git)
+- A machine learning project focused on predicting the future performance of Indian cricketers.
 
-### [FeatherGuard](https://github.com/Anirudhabg/Featherguard.git)
-A Python project aimed at increasing public awareness and spreading knowledge about bird species.
+#### [FeatherGuard](https://github.com/Anirudhabg/Featherguard.git)
+- A Python project aimed at increasing public awareness and spreading knowledge about bird species.
 
-### [Optimising Water Management: IoT Crop Monitoring System](https://github.com/Anirudhabg/Smart_IoT_Crop_Monitoring.git)
-An IoT-based system that monitors crop conditions in real time, helping farmers manage water usage more efficiently.
+---
+### IoT Based Projects: 
+#### [Optimising Water Management: IoT Crop Monitoring System](https://github.com/Anirudhabg/Smart_IoT_Crop_Monitoring.git)
+- An IoT-based system that monitors crop conditions in real time, helping farmers manage water usage more efficiently.
 
-### [Efficient Vehicle Parking Management System](https://github.com/Anirudhabg/Smart-Parking-IoT.git)
-An IoT project designed to streamline the process of vehicle parking.
+#### [Efficient Vehicle Parking Management System](https://github.com/Anirudhabg/Smart-Parking-IoT.git)
+- An IoT project designed to streamline the process of vehicle parking.
 
 ---
 
