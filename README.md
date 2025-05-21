@@ -1,10 +1,10 @@
 # Hi there 👋, I'm Anirudha B G Somayaji
 
 ## 💫 About Me:
-🎓 Assistant Professor at VCET, driven by a passion for teaching and technology.
-💻 Completed Master’s in Computer Applications.
-🚀 Areas of expertise: Web Development, Machine Learning, and IoT Systems.
-💡 Forever a learner, building and sharing knowledge one project at a time.
+- 🎓 Assistant Professor at VCET, driven by a passion for teaching and technology.
+- 💻 Completed Master’s in Computer Applications.
+- 🚀 Areas of expertise: Web Development, Machine Learning, and IoT Systems.
+- 💡 Forever a learner, building and sharing knowledge one project at a time.
 
 🌐 Curious to know more? Explore my digital space 👉[anirudhabg](https://anirudhabgs.netlify.app/)
 
@@ -57,7 +57,7 @@ Here are some cool projects I've worked on:
 - An IoT project designed to streamline the process of vehicle parking.
 
 ---
-
+<!--
 [![Active Days](https://img.shields.io/badge/Active%20Days-XXX-brightgreen)](https://github.com/Anirudhabg)
 
 <!--
