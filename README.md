@@ -1,16 +1,19 @@
-# Hi there 👋, I'm Anirudha
+# Hi there 👋, I'm Anirudha B G Somayaji
 
 ## 💫 About Me:
-I’m a Master's student in Computer Applications, passionate about tech and coding.  
-My areas of focus include web development, machine learning, and IoT systems.  
-Wanna know more about me??? Visit: [anirudhabg](https://anirudhabgs.netlify.app/)
+🎓 Assistant Professor at VCET, driven by a passion for teaching and technology.
+💻 Completed Master’s in Computer Applications.
+🚀 Areas of expertise: Web Development, Machine Learning, and IoT Systems.
+💡 Forever a learner, building and sharing knowledge one project at a time.
+
+🌐 Curious to know more? Explore my digital space 👉[anirudhabg](https://anirudhabgs.netlify.app/)
 
 ---
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anirudhabg)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anirudha-b-g-somayaji)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/anirudhabg)
+<!-- [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/anirudhabg) -->
 
 ---
 
@@ -21,24 +24,38 @@ Wanna know more about me??? Visit: [anirudhabg](https://anirudhabgs.netlify.app/
 
 ## 🚀 Projects:
 Here are some cool projects I've worked on:
+### [Tantrotsav Project Expo Website](https://github.com/Anirudhabg/tantrotsav-project-exp.git)
+The official website for the Project Expo organized by the MCA Department of VCET, Puttur.
 
-### 🔹 [Optimising Water Management: IoT Crop Monitoring System](https://ijeast.com/papers/429-433-T007.pdf)
-An IoT-based system that monitors crop conditions in real time, helping farmers manage water usage more efficiently.
-
-### 🔹 [Twitter Sentiment Analysis](https://github.com/Anirudhabg/twitter-sentiment-analysis)
+### [SentimentScope: Real-Time Twitter Sentiment Analysis via Chrome Extension](https://github.com/Anirudhabg/Twitter_sentiment_analysis.git)
 A machine learning-based analysis of public sentiments on Twitter using natural language processing techniques.
 
-### 🔹 [Transit-Flow: A Comprehensive Cargo Solution](https://github.com/Anirudhabg/Transit-Flow)
-A responsive static website for a logistics service, built using HTML5, CSS3, and JavaScript during an internship.
+### [Dynamic Timetable for MCA, VCET](https://github.com/Anirudhabg/Dynamic_TimeTable.git)
+Dynamic Timetable for VCET MCA Students
 
-### 🔹 [Dragon Repeller 🐉](https://anirudhabg.github.io/dragon-repeller/)
-A fun monster game built using HTML, CSS, and JavaScript. Repel the dragon before it defeats you!
+### [CricAnalysis](https://github.com/Anirudhabg/CricAnalysis.git)
+A machine learning project focused on predicting the future performance of Indian cricketers.
 
-### 🔹 [Expenso 💰](https://github.com/Anirudhabg/Expenso)
-A no-login expense tracking app that helps manage your daily spendings and monitor your balance.
+### [CleanCity: Enhancing Waste Disposal and Sanitation Through Technology](https://github.com/Anirudhabg/CleanCity.git)
+Waste classification and reporting app using machine learning and FLET for proper disposal methods.
+
+### [Creative Mode](https://github.com/Anirudhabg/CREATIVE-mode.git)
+Website for a photographer.
+
+### [Optimising Water Management: IoT Crop Monitoring System](https://github.com/Anirudhabg/Smart_IoT_Crop_Monitoring.git)
+An IoT-based system that monitors crop conditions in real time, helping farmers manage water usage more efficiently.
+
+### [FeatherGuard](https://github.com/Anirudhabg/Featherguard.git)
+A Python project aimed at increasing public awareness and spreading knowledge about bird species.
+
+### [Efficient Vehicle Parking Management System](https://github.com/Anirudhabg/Smart-Parking-IoT.git)
+An IoT project designed to streamline the process of vehicle parking.
 
 ---
 
+[![Active Days](https://img.shields.io/badge/Active%20Days-XXX-brightgreen)](https://github.com/Anirudhabg)
+
+<!--
 ## 🎮 Bored? Try This Game!
 [![Play Snake](https://img.shields.io/badge/Click%20Here%20To%20Play-Snake%20Game-1f8acb?style=for-the-badge)](https://playsnake.org)
 
