@@ -45,6 +45,8 @@ Here are some cool projects I've worked on:
 #### [CricAnalysis](https://github.com/Anirudhabg/CricAnalysis.git)
 - A machine learning project focused on predicting the future performance of Indian cricketers.
 
+---
+### Flask Projects:
 #### [FeatherGuard](https://github.com/Anirudhabg/Featherguard.git)
 - A Python project aimed at increasing public awareness and spreading knowledge about bird species.
 
