@@ -25,6 +25,12 @@
 ## 🚀 Projects:
 Here are some cool projects I've worked on:
 ### Web Based Project:
+#### [AVL Tree Visualiser](https://github.com/Anirudhabg/AVLTreeVisualizer.git)
+- Visualises AVL Tree formation.
+
+#### [Drishti 2025 Website](https://github.com/Anirudhabg/drishti-2025.git)
+- The official website for the 3rd International Conference Drishti 2025 organized by the MBA & MCA Department of VCET, Puttur.
+
 #### [Tantrotsav Project Expo Website](https://github.com/Anirudhabg/tantrotsav-project-exp.git)
 - The official website for the Project Expo organized by the MCA Department of VCET, Puttur.
 
