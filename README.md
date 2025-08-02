@@ -25,6 +25,9 @@
 ## 🚀 Projects:
 Here are some cool projects I've worked on:
 ### Web Based Project:
+#### [TexPress](https://github.com/Anirudhabg/Latex-Code-Generator-for-Conference-proceedings.git)
+- Generates latex code for the Drishti 2025 conference proceedings to make the workflow easy.
+
 #### [AVL Tree Visualiser](https://github.com/Anirudhabg/AVLTreeVisualizer.git)
 - Visualises AVL Tree formation.
 
